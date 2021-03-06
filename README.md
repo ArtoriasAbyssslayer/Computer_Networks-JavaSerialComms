@@ -4,4 +4,4 @@ A java based interface to work with a modem in a server (Server url: http://itha
 
 
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/harryfilis/Computer_Networks-Assignment/blob/master/LICENSE.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/harryfilis/Computer_Networks-Assignment/blob/master/LICENSE)
